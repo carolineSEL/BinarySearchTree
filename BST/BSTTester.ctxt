@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BSTTester
+comment0.text=\r\n\ This\ class\ provides\ the\ main\ method\ for\ testing\ the\ BST\ class.\ \r\n\r\n\ @author\ Caroline\ Lamb\r\n\ @version\ 11/19/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ method\ for\ the\ program\r\n
+numComments=2

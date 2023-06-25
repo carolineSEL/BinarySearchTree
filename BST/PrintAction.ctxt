@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PrintAction
+comment0.text=\r\n\ \ \ \ Implementation\ of\ PrintAction\ class.\r\n\ \ \ \ @author\ Alyce\ Brady\r\n\ \ \ \ Creation\ Date\:\ Spring\ 2001\r\n\ \ \ \ \r\n\ \ \ \ The\ PrintAction\ class\ implements\ the\ NodeVisitor\ interface.\r\n\ \ \ \ It\ prints\ the\ contents\ of\ the\ node\ to\ System.out.\r\n
+comment1.params=
+comment1.target=PrintAction()
+comment2.params=data
+comment2.target=void\ visit(java.lang.Object)
+numComments=3
